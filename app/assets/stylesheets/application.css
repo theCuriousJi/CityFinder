@@ -29,3 +29,15 @@ body {
   min-height: 20px;
   width: 50%
 }
+
+.title {
+  border-bottom: black solid
+}
+
+.input{
+  font-size: 16px
+}
+
+#submit{
+  font-size: 16px
+}
