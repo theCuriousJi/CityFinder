@@ -34,10 +34,21 @@ body {
   border-bottom: black solid
 }
 
-.input{
-  font-size: 16px
+.zipcode{
+  font-size: 14px;
+  margin-bottom: 10px
 }
 
 #submit{
-  font-size: 16px
-}
+  font-size: 14px;
+  border-radius: 3px;
+  background-color: #5098D4
+  }
+
+#submit:hover{
+    background-color: #064D87;
+    color: white;
+    font-size: 14px;
+    border-radius: 3px;
+    cursor: pointer
+  }
